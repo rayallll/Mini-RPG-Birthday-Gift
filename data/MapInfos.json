@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"出生房间","order":1,"parentId":0,"scrollX":819,"scrollY":447},
-{"id":2,"expanded":false,"name":"书房","order":2,"parentId":0,"scrollX":819,"scrollY":447}
+{"id":1,"expanded":false,"name":"大厅","order":3,"parentId":0,"scrollX":811,"scrollY":447},
+{"id":2,"expanded":true,"name":"书房","order":2,"parentId":0,"scrollX":819,"scrollY":447},
+{"id":3,"expanded":true,"name":"走廊","order":1,"parentId":0,"scrollX":819,"scrollY":447}
 ]

@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"大厅","order":2,"parentId":0,"scrollX":540.6666666666666,"scrollY":470},
-{"id":2,"expanded":true,"name":"卧房","order":4,"parentId":0,"scrollX":546,"scrollY":298},
-{"id":3,"expanded":true,"name":"走廊","order":1,"parentId":0,"scrollX":899.3333333333334,"scrollY":475.3333333333333},
-{"id":4,"expanded":false,"name":"书房","order":3,"parentId":0,"scrollX":540.6666666666666,"scrollY":596},
-{"id":5,"expanded":true,"name":"迷宫","order":5,"parentId":0,"scrollX":540.6666666666666,"scrollY":585.3333333333334},
-{"id":6,"expanded":true,"name":"最终房间","order":6,"parentId":0,"scrollX":546,"scrollY":298}
+{"id":1,"expanded":false,"name":"大厅","order":2,"parentId":0,"scrollX":720.8888888888889,"scrollY":470.22222222222223},
+{"id":2,"expanded":true,"name":"卧房","order":4,"parentId":0,"scrollX":728,"scrollY":397.3333333333333},
+{"id":3,"expanded":true,"name":"走廊","order":1,"parentId":0,"scrollX":728,"scrollY":397.3333333333333},
+{"id":4,"expanded":false,"name":"书房","order":3,"parentId":0,"scrollX":720.8888888888889,"scrollY":562.6666666666666},
+{"id":5,"expanded":true,"name":"迷宫","order":5,"parentId":0,"scrollX":832,"scrollY":495.1111111111111},
+{"id":6,"expanded":true,"name":"最终房间","order":6,"parentId":0,"scrollX":728,"scrollY":397.3333333333333}
 ]
